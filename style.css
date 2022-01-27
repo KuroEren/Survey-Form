@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body {
+    font-family: 'Roboto Condensed';
+    line-height: 1.6;
+    width: 500px;
+    margin: auto;
+    background-color: #7AB547;
+}
+
+form {
+    background-color: palegreen;
+    padding: 2.5rem;
+    border-radius: 10px;
+    width: 300px;
+    margin:auto;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 0.25rem;
+    background: cyan;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.form-input {
+    display: block;
+    width: 70%;
+    height: 1.5rem;
+    padding: 0.25rem 0.5rem;
+}
